@@ -1,0 +1,11 @@
+{
+"companyName": "DefaultCompany",
+"productName": "RollerMadness",
+"dataUrl": "Webgl.data.unityweb",
+"asmCodeUrl": "Webgl.asm.code.unityweb",
+"asmMemoryUrl": "Webgl.asm.memory.unityweb",
+"asmFrameworkUrl": "Webgl.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
